@@ -25,9 +25,9 @@ The Registrar interface does not use the PIN at all but some actions require ent
 
 ## Running the application
 To actually run the application you must configure the config.properties file with your own oracle DB connection and wallet:
-- DB_URL
-- DB_USER
-- DB_PASSWORD
+- `DB_URL`
+- `DB_USER`
+- `DB_PASSWORD`
 
 
 **This project is for educational purposes only and is not affliated with the official UCSB Gold System.**
