@@ -1,0 +1,10 @@
+target/
+*.class
+*.log
+*.lst
+*.iml
+*.idea/
+*.DS_Store
+*.wallet/
+Wallet_ProjBase/
+*.jar
