@@ -28,3 +28,6 @@ To actually run the application you must configure the config.properties file wi
 - DB_URL
 - DB_USER
 - DB_PASSWORD
+
+
+**This project is for educational purposes only and is not affliated with the official UCSB Gold System.**
